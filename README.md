@@ -9,4 +9,4 @@ You can use Dana by instaling Pillow (put pip install pillow), and by running ma
 
 You also have to change the line 6 `with Image.open("lacaz.jpg") as image:` (the ("lacaz.jpg")) by the name of the image.
 
-  *If it's the dana.jpg image, you have to change the line by with `Image.open("dana.jpg")`.*
+  *If it's the dana.jpg image, you have to change the line by `with Image.open("dana.jpg")`.*
